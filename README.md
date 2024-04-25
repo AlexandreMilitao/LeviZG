@@ -5,7 +5,7 @@
 - 📫 How to reach me https://www.linkedin.com/in/alexandre-milit%C3%A3o-b5042b151/
 
 <div align="start">
-  <a href="https://github.com/LeviZG">
+  <a href="https://github.com/AlexandreMilitao">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeviZG&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeviZG&layout=compact&langs_count=6&theme=dracula"/>
 </div>
