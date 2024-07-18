@@ -1,5 +1,5 @@
 ### Hi, Alexandre Levi 👋
-- 👀 I’m interested in BI Analytics and Dart programing;
+- 👀 I’m interested in Dart programing;
 - 🌱 I’m currently learning Dart.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/alexandre-milit%C3%A3o-b5042b151/
